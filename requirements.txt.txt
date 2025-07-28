@@ -1,5 +1,1 @@
-streamlit
-python-dotenv
-google-generativeai
-ping3
-requests
+
